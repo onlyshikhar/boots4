@@ -1,0 +1,53 @@
+.nbitems{
+		padding-left: 70px;
+		word-spacing: 30px;
+		font-size: 20px;
+}
+
+.btcolor{
+		background-color: white;
+		color: #333;
+}
+
+.sizeimg{
+		width: 100%;
+		height: 600px;
+}
+
+.imgtext{
+		color: lightblue;
+		font-size: 25px;
+}
+
+body{
+		background-color: gray;
+}
+
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.5;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
