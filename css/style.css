@@ -71,6 +71,10 @@ body {
     height: 250px;
 }
 
-#h3{
+#h3 {
     text-align: center;
+}
+
+#image-army {
+    height: 300px;
 }
