@@ -2,11 +2,23 @@
     padding-left: 50px;
     word-spacing: 15px;
     font-size: 20px;
+    color: #fff;
 }
 
 .btcolor {
     background-color: white;
     color: #333;
+}
+
+#navbarSupportedContent a
+  {
+    color: #fff;
+}
+#navitem{
+    color: #fff;
+}
+.just{
+    text-align: justify;
 }
 
 .sizeimg {
