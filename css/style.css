@@ -1,4 +1,5 @@
 /*navbar items*/
+
 .nbitems {
     padding-left: 50px;
     word-spacing: 15px;
@@ -34,7 +35,9 @@
     text-align: justify;
 }
 
+
 /*footer*/
+
 .fa {
     padding: 10px;
     font-size: 30px;
@@ -98,21 +101,38 @@ body {
     text-align: center;
     margin-top: 10px;
 }
+
+
 /*media query*/
-@media(max-width: 768px){
-      .carousel-item img{
-          width: 100%;
-          height: 450px;
-      }
+
+@media(max-width: 768px) {
+    .carousel-item img {
+        width: 100%;
+        height: 450px;
+    }
 }
 
-@media(max-width: 480px){
-    .carousel-item img{
+@media(max-width: 480px) {
+    .carousel-item img {
         width: 100%;
         height: 300px;
     }
-    .carousel-item p{
+    .carousel-item p {
         font-size: 14px;
     }
 }
 
+  .jumbotron img{
+      width: 100%;
+      height: 400px;
+  }
+  .jumbotron-fluid{
+      padding-bottom: 0px;
+      padding-top: 10px;
+      margin-bottom: 0px;
+  }
+
+  .lead{
+      text-align: center;
+      font-family: sans-serif;
+  }
