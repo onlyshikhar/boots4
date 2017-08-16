@@ -136,3 +136,7 @@ body {
       text-align: center;
       font-family: sans-serif;
   }
+
+  .col-sm-4{
+      margin-top: 10px;
+  }
